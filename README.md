@@ -1,16 +1,30 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**tecniccomsono/tecniccomsono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá!
 
-Here are some ideas to get you started:
+<p align="left"> 
+  Meu nome é <strong>tecniccomsono</strong>,<br>
+  Sou estudante do ensino fundamental e estou aprendendo programação!
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  🦄 Linguagens: <strong>JS, Lua</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>Laptop da Dell</strong>
+</p>
+
+<p align="left">
+  💌 Entre em contato comigo: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://gmail.com/" alt="Gmail"/></a>
+    <a href="#" title="Gmail">
+<a href="https://discord.com/users/760253855085756486" target="_blank">
+  <img src="https://img.shields.io/badge/discord-7289DA?style=flat-square&logo=Discord&logoColor=white" alt="Discord">
+</a>
+
+</p>

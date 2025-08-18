@@ -2,7 +2,6 @@
 
 <p align="left"> 
   <h1>Olá!</h1><br>
-  Meu nome é <strong>tecniccomsono</strong>,<br>
   Sou estudante do ensino fundamental e estou aprendendo programação!
 </p>
 

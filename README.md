@@ -10,10 +10,6 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Laptop da Dell</strong>
-</p>
-
-<p align="left">
   💌 Entre em contato comigo: ⤵️
 </p>
 

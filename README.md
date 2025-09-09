@@ -6,4 +6,4 @@ console.log("sup, i'm y4fw")
 
 ![tecniccomsono's Stats](https://github-readme-stats.vercel.app/api?username=tecniccomsono&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<Img align="center" src="https://cdn3.emoji.gg/emojis/13815-dev.png">
+<Img align="center" src="https://cdn3.emoji.gg/emojis/13815-dev.png" width="50px" height="50px">

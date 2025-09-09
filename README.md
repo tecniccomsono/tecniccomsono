@@ -4,4 +4,4 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=tecniccomsono&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)

@@ -4,4 +4,4 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=tecniccomsono&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>I am a developer from<br/> Platform Destroyer</p>
+<p>My projects:</p>

@@ -1,5 +1,6 @@
 ```js
-console.log("sup, i'm y4fw")```
+console.log("sup, i'm y4fw")
+```
 
 [![My Skills](https://skillicons.dev/icons?i=js,lua](https://skillicons.dev)
 
